@@ -1,0 +1,41 @@
+PANDAS LIBRARY
+
+
+## FEATURES
+
+BASIC SYNTAX TO WORK WITH SMALL DATA
+
+IMPORTING REAL WORLD DATA THEN DOING THE PREPROCESSING PART
+DATA CLEANING,DATA NORMALISATION,EDA,DATA FEATURING.
+
+TRAINING MODEL ON THE DATA.
+
+## Lessons Learned
+
+HANDLING DIFFERENT TYPE OF DATA
+
+HANDLING MISSING VALUES
+
+GROUPING
+
+TIME SERIES 
+
+MERGING TWO DIFFERENT DATA
+
+USING NUMPY AND PANDAS TOGETHER
+
+
+## NOTE
+
+This repo is purely for my learning purpose and if someone want can take help for the syntaxes
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/panda7ad/Pandas.git
+```
+
+```
+ALL THE FILES WILL BE IN LOCAL TAKE HELP AS YOU WANT
+
